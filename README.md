@@ -1,5 +1,5 @@
 ### 【Requisito previo】
-#### 〔Azure Sponsorships〕asdasd
+#### 〔Python y Visual Studio Code〕
 Antes de esta práctica en concreto, es necesario descargar todo lo necesario para empezar a programar con Python. En mi caso, descargué Python desde la página principal de Python, en conjunto con el entorno de desarrollo Visual Studio Code
 
 1. Entrar al siguiente enlace: [**Python**](https://www.python.org/)
@@ -39,9 +39,10 @@ Con esto, nos aseguramos de tener:
     - [Constantes en Python](#constantes-en-python)
 - [Practica 3: Python básico](#practica-3-python-básico)
     - [Programa #1: Hola mundo](#programa-1-hola-mundo)
-    - [Programa de codificación Binaria hecho en Azure ML en la NUBE](#programa-de-codificación-binaria-hecho-en-azure-ml-en-la-nube)
-.
-
+    - [Programa #2: Saludo](#programa-2-saludo)
+    - [Programa #3: Tipos de Variables](#programa-3-tipos-de-variables)
+    - [Programa #4: Condicionales](#programa-4-condicionales)
+    - [Programa #5: Arreglos](#programa-5-arreglos)
 
 -------
 
